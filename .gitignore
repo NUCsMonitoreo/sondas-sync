@@ -1,0 +1,35 @@
+# --- Básico Windows ---
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+$RECYCLE.BIN/
+*.lnk
+
+# Instaladores Windows
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Temporales/comunes
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Archivos de sistema ocultos
+Desktop.ini
+Icon?
+.DS_Store
+
+# Carpeta de reciclaje y meta
+System Volume Information/
+
+# --- Repositorio de sondas: ignora basura típica ---
+*.bak
+*.old
+*.swp
+~$*
+
+# (si tienes archivos que NO quieres subir, agrégalos aquí)
