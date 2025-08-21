@@ -1,0 +1,11 @@
+device,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
+OLT Guapiles 1,2025-08-21T17:43:02.601230,84.17.40.24,SUTEL Internacional,57.25455284118652,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:44:02.678267,84.17.40.24,SUTEL Internacional,57.164907455444336,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:45:02.751140,84.17.40.24,SUTEL Internacional,57.43551254272461,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:46:02.831777,84.17.40.24,SUTEL Internacional,57.21783638000488,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:47:02.902508,84.17.40.24,SUTEL Internacional,57.489871978759766,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:48:02.968349,84.17.40.24,SUTEL Internacional,57.235002517700195,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:49:03.049753,84.17.40.24,SUTEL Internacional,57.30772018432617,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:50:03.131439,84.17.40.24,SUTEL Internacional,56.679725646972656,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:51:03.202335,84.17.40.24,SUTEL Internacional,57.61408805847168,True,Ping SUTEL Internacional
+OLT Guapiles 1,2025-08-21T17:52:03.284784,84.17.40.24,SUTEL Internacional,57.29389190673828,True,Ping SUTEL Internacional
