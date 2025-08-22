@@ -1,2 +1,7 @@
 device,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
 OLT Alajuela 1,2025-08-21T22:46:56.862442,8.8.8.8,Latencia,43.31374168395996,True,Ping hacia 8.8.8.8
+OLT Alajuela 1,2025-08-21T22:47:56.977045,8.8.8.8,Latencia,48.84052276611328,True,Ping hacia 8.8.8.8
+OLT Alajuela 1,2025-08-21T22:48:57.104254,8.8.8.8,Latencia,42.940616607666016,True,Ping hacia 8.8.8.8
+OLT Alajuela 1,2025-08-21T22:49:57.213507,8.8.8.8,Latencia,46.13351821899414,True,Ping hacia 8.8.8.8
+OLT Alajuela 1,2025-08-21T22:50:57.337890,8.8.8.8,Latencia,42.99163818359375,True,Ping hacia 8.8.8.8
+OLT Alajuela 1,2025-08-21T22:51:57.458520,8.8.8.8,Latencia,43.23244094848633,True,Ping hacia 8.8.8.8
