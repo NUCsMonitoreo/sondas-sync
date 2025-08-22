@@ -1,0 +1,2 @@
+device,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
+OLT Alajuela 1,2025-08-21T22:46:56.862442,138.59.18.180,SUTEL Local,4.619121551513672,True,Ping SUTEL Local Costa Rica

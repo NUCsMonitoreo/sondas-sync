@@ -1,0 +1,2 @@
+device,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
+OLT Alajuela 1,2025-08-21T22:46:56.862442,8.8.8.8,Latencia,43.31374168395996,True,Ping hacia 8.8.8.8
