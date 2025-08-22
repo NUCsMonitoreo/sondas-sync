@@ -1,0 +1,2 @@
+device,ubicacion,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
+OLT Heredia 1,"9.999320148579201, -84.11995728395209",2025-08-22T01:56:38.773458,8.8.8.8,Latencia,42.62042045593262,True,Ping hacia 8.8.8.8
