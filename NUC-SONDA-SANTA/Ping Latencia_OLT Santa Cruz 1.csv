@@ -1,0 +1,3 @@
+device,ubicacion,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
+OLT Santa Cruz 1,"10.261013520025534, -85.585618511376",2025-08-22T01:38:45.810911,8.8.8.8,Latencia,47.38950729370117,True,Ping hacia 8.8.8.8
+OLT Santa Cruz 1,"10.261013520025534, -85.585618511376",2025-08-22T01:39:55.884896,8.8.8.8,Latencia,46.67162895202637,True,Ping hacia 8.8.8.8

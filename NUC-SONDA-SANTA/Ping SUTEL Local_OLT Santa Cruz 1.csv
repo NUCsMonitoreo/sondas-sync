@@ -1,0 +1,3 @@
+device,ubicacion,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
+OLT Santa Cruz 1,"10.261013520025534, -85.585618511376",2025-08-22T01:38:45.810911,138.59.18.180,SUTEL Local,11.665821075439453,True,Ping SUTEL Local Costa Rica
+OLT Santa Cruz 1,"10.261013520025534, -85.585618511376",2025-08-22T01:39:55.884896,138.59.18.180,SUTEL Local,10.095834732055664,True,Ping SUTEL Local Costa Rica
