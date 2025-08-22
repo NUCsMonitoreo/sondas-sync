@@ -1,9 +1,1 @@
-device,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
-OLT Alajuela 1,2025-08-21T22:46:56.862442,84.17.40.24,SUTEL Internacional,57.08026885986328,True,Ping SUTEL Internacional
-OLT Alajuela 1,2025-08-21T22:47:56.977045,84.17.40.24,SUTEL Internacional,57.167768478393555,True,Ping SUTEL Internacional
-OLT Alajuela 1,2025-08-21T22:48:57.104254,84.17.40.24,SUTEL Internacional,57.52158164978027,True,Ping SUTEL Internacional
-OLT Alajuela 1,2025-08-21T22:49:57.213507,84.17.40.24,SUTEL Internacional,57.634830474853516,True,Ping SUTEL Internacional
-OLT Alajuela 1,2025-08-21T22:50:57.337890,84.17.40.24,SUTEL Internacional,57.30915069580078,True,Ping SUTEL Internacional
-OLT Alajuela 1,2025-08-21T22:51:57.458520,84.17.40.24,SUTEL Internacional,57.74331092834473,True,Ping SUTEL Internacional
-OLT Alajuela 1,2025-08-21T22:52:57.576871,84.17.40.24,SUTEL Internacional,48.75445365905762,True,Ping SUTEL Internacional
-OLT Alajuela 1,2025-08-21T22:53:57.690877,84.17.40.24,SUTEL Internacional,57.2354793548584,True,Ping SUTEL Internacional
+device,Ubicacion,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
